@@ -54,7 +54,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/RaulRodriguez050221/flow2-nodered-docker-compose/blob/main/Imagenes/Captura desde 2023-05-24 20-07-01.png)
+![](https://github.com/RaulRodriguez050221/flow2-nodered-docker-compose/blob/main/imagenes/Captura2023-05-24.png)
 
 ## Evidencias
 
